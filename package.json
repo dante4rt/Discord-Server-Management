@@ -1,0 +1,29 @@
+{
+  "name": "discord-server-management",
+  "version": "1.0.0",
+  "description": "A versatile Discord bot for automated server management, featuring role assignment, scheduled messaging, content moderation, and user engagement enhancements. Built on the Discord Simple API, it simplifies common administrative tasks and enhances community interaction within Discord servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dante4rt/Discord-Server-Management.git"
+  },
+  "keywords": [
+    "discord",
+    "server",
+    "management",
+    "bot"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante4rt/Discord-Server-Management/issues"
+  },
+  "homepage": "https://github.com/dante4rt/Discord-Server-Management#readme",
+  "dependencies": {
+    "discord-simple-api": "^1.0.0",
+    "node-schedule": "^2.1.1"
+  }
+}
